@@ -1,4 +1,3 @@
-# Dormitory_Managment_System
 # Dormitory Management System
 
 A full-stack web application designed to streamline dormitory operation processes, including administrative oversight, student requests, issue reporting, operational tracking, and marketplace features.
