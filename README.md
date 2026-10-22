@@ -2,17 +2,6 @@
 
 A full-stack web application designed to streamline dormitory operation processes, including administrative oversight, student requests, issue reporting, operational tracking, and marketplace features.
 
----
-
-## Table of Contents
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Environment Variables](#environment-variables)
-- [Scripts](#scripts)
-
----
 
 ## Features
 
